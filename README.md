@@ -1,6 +1,8 @@
 # ivprobit
 Fit an Instrumental variables probit model using the generalized least squares estimator Use ivprobit With (In) R Software
 
+https://www.youtube.com/watch?v=n0ToJMH-LrU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
